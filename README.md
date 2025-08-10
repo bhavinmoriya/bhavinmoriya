@@ -12,6 +12,7 @@
  
 With a strong background in mathematics, cryptography, and data science—as well as hands-on experience in both academia and applied research—I am eager to contribute to innovative projects in this sector. I am proficient in Python and have a proven track record of interdisciplinary collaboration and impactful research. 
 - Kaggle : https://www.kaggle.com/bhavinmoriya
+- YouTUbe : https://youtube.com/@bhavinmoriya9216?si=0sjlj_psJNPU_r_H
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
