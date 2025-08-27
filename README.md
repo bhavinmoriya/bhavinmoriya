@@ -126,7 +126,7 @@ The rare combination of **pure mathematics rigor** + **applied cryptography** + 
 ## 📬 **Let's Connect**
 
 **🔗 Professional Links**  
-[Google Scholar](https://scholar.google.com) | [LinkedIn](https://linkedin.com) | [Kaggle](https://kaggle.com) | [YouTube](https://youtube.com)
+[Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=6NdqODcAAAAJ&hl=de&authuser=1)) | [LinkedIn](https://linkedin.com) | [Kaggle](https://kaggle.com) | [YouTube]([https://youtube.com](https://youtube.com/@bhavinmoriya9216?si=lKGjpwxQS6yHxRTL)
 
 **📧 Contact**  
 bhavinmoriya58@gmail.com | Based in Esslingen am Neckar, Germany
@@ -135,21 +135,7 @@ bhavinmoriya58@gmail.com | Based in Esslingen am Neckar, Germany
 
 *"Bridging the gap between mathematical theory and real-world privacy solutions, one encrypted dataset at a time."*
 
-- 👋 Hi, I’m @bhavinmoriya
-- 👀 I’m interested in Cryptography, Finance, Machine Learning and Data Science.
-- 🌱 I am currently exploring new job opportunities in the field of Mobility, Data Analysis, Cryptography, Statistics etc. Over the past two years, I have been deeply involved in research and development projects focused on mobility data, with a particular emphasis on homomorphic encryption, secure data analysis, and the improvement of mobility services. My work has included:
- 
-- Applying advanced machine learning and data analysis techniques using Python and C++
- 
-- Addressing CO₂ emissions and sustainability in mobility solutions
- 
-- Enhancing the security and privacy of mobility data
- 
-- Successfully utilizing platforms such as OpenTripPlanner and OpenRouteService for real-world applications
- 
-With a strong background in mathematics, cryptography, and data science—as well as hands-on experience in both academia and applied research—I am eager to contribute to innovative projects in this sector. I am proficient in Python and have a proven track record of interdisciplinary collaboration and impactful research. 
-- Kaggle : https://www.kaggle.com/bhavinmoriya
-- YouTUbe : https://youtube.com/@bhavinmoriya9216?si=0sjlj_psJNPU_r_H
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
