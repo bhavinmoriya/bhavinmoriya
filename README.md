@@ -38,10 +38,10 @@
 ### **AnoMoB Project** | *Hochschule Esslingen*
 *Breakthrough research in privacy-preserving mobility analytics*
 
-- ✨ **Innovation**: First-of-its-kind encrypted comparison operations using homomorphic encryption
-- 🛡️ **Privacy**: Developed secure multi-party computation protocols for sensitive mobility data
-- ⚡ **Performance**: Optimized CKKS and TFHE implementations for real-time processing
-- 📈 **Impact**: Published performance comparison study in Cryptology ePrint Archive (2025)
+- ✨ **Innovation**: First-of-its-kind encrypted comparison operations, evaluation of non-linear functions using homomorphic encryption
+- 🛡️ **Privacy**: Explored secure multi-party computation protocols for sensitive mobility data
+- ⚡ **Performance**: Implemented CKKS and TFHE implementations for real-time processing
+- 📈 **Impact**: Published performance comparison study of Homomorphic Encryptions schemes in Cryptology ePrint Archive (2025)
 
 ---
 
@@ -50,8 +50,8 @@
 ### **Languages & Frameworks**
 ```python
 # Core Technologies
-🐍 Python (Expert) | 🦀 Rust (Advanced) | ⚡ C++ (Proficient)
-📊 SQL | 🔢 MATLAB | 📝 LaTeX
+🐍 Python (Expert) | 🦀 Rust (Beginner) | ⚡ C++ (Good)
+📊 SQL | 🔬 Julia | 📝 LaTeX
 
 # Specialized Libraries
 🔐 OpenFHE, TFHE-rs | 🤖 Pandas, Polars, Scikit-learn
@@ -113,7 +113,7 @@ The rare combination of **pure mathematics rigor** + **applied cryptography** + 
 - 🔬 **R&D Positions** in cryptography, privacy-tech, or mobility analytics
 - 🏢 **Industry Roles** at intersection of data science and security
 - 🎓 **Academic Positions** in computer science, applied mathematics, or related fields
-- 🚀 **Startups** focused on privacy-preserving technologies
+- 🚀 **Startups** focused on privacy-preserving technologies, ML or AI, Data Science roles, Quants etc.
 
 ### **Ready to Contribute**
 ✅ **Immediate availability** (EU Blue Card holder)  
