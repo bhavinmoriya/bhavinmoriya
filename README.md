@@ -126,7 +126,7 @@ The rare combination of **pure mathematics rigor** + **applied cryptography** + 
 ## 📬 **Let's Connect**
 
 **🔗 Professional Links**  
-[Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=6NdqODcAAAAJ&hl=de&authuser=1)) | [LinkedIn](https://linkedin.com) | [Kaggle](https://kaggle.com) | [YouTube]([https://youtube.com](https://youtube.com/@bhavinmoriya9216?si=lKGjpwxQS6yHxRTL)
+[Google Scholar](https://scholar.google.com/citations?user=6NdqODcAAAAJ&hl=de&authuser=1) | [LinkedIn](https://www.linkedin.com/in/bhavin-moriya-b0b88b2/) | [Kaggle](https://www.kaggle.com/bhavinmoriya) | [YouTube](https://www.youtube.com/@bhavinmoriya9216)
 
 **📧 Contact**  
 bhavinmoriya58@gmail.com | Based in Esslingen am Neckar, Germany
