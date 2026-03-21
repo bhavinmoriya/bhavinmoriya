@@ -1,4 +1,5 @@
-- [**EnergyPredictionApp/Model:**](https://energypredictionapp.onrender.com) Developed tools for energy consumption forecasting and modeling.
+- [**EnergyPredictionApp:**](https://energypredictionapp.onrender.com) Developed tools for energy consumption forecasting and modeling (training is done in the app).
+- [**EnergyPredictionModelApp:**](https://energypredmodel-1.onrender.com) Developed tools for energy consumption forecasting using the trained model.
 - [**Quant:**](https://github.com/bhavinmoriya/Quant) Implementation of financial modeling and algorithmic trading concepts.
 - [**Learning from Scratch**](https://github.com/bhavinmoriya/TellMeWhat)
 - [**StreamlitApps**](https://share.streamlit.io/user/bhavinmoriya)
