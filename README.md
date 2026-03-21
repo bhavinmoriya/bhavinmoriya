@@ -38,7 +38,7 @@
 - [**Quant:**](https://github.com/bhavinmoriya/Quant) Implementation of financial modeling and algorithmic trading concepts.
 - [**Learning from Scratch**](https://github.com/bhavinmoriya/TellMeWhat)
 - [**StreamlitApps**](https://share.streamlit.io/user/bhavinmoriya)
-- [**Diabetes Type 1 -- CGM**][https://github.com/bhavinmoriya/DiabetesType1)
+- [**Diabetes Type 1 -- CGM**](https://github.com/bhavinmoriya/DiabetesType1)
 
 ### **AnoMoB Project** | *Hochschule Esslingen*
 *Breakthrough research in privacy-preserving mobility analytics*
