@@ -40,7 +40,7 @@
 - [**StreamlitApps**](https://share.streamlit.io/user/bhavinmoriya)
 - [**Diabetes Type 1 -- CGM**](https://github.com/bhavinmoriya/DiabetesType1)
 
-### **AnoMoB Project** | *Hochschule Esslingen*
+### 🔬 **AnoMoB Project** | *Hochschule Esslingen*
 *Breakthrough research in privacy-preserving mobility analytics*
 
 - ✨ **Innovation**: First-of-its-kind encrypted comparison operations, evaluation of non-linear functions using homomorphic encryption
