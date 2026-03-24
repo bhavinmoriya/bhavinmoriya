@@ -8,3 +8,4 @@ Schemes CKKS and TFHE. [Cryptology ePrint Archive, Paper 2025/1460, 2025](https:
 - [**Diabetes Type 1 -- CGM**](https://github.com/bhavinmoriya/DiabetesType1)
 - [**Number Theory**](https://github.com/bhavinmoriya/NumberTheory)
 - [**Glucose FastAPI APP**](https://github.com/bhavinmoriya/FastAPIAPPS)
+- [YouTube Channel](https://www.youtube.com/@bhavinmoriya9216)
