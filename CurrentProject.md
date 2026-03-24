@@ -1,3 +1,5 @@
+- (with C. Krüger & D. Schoop) A Performance Comparison of the Homomorphic Encryption
+Schemes CKKS and TFHE. [Cryptology ePrint Archive, Paper 2025/1460, 2025](https://eprint.iacr.org/2025/1460).
 - [**EnergyPredictionApp:**](https://energypredictionapp.onrender.com) Developed tools for energy consumption forecasting and modeling (training is done in the app).
 - [**EnergyPredictionModelApp:**](https://energypredmodel-1.onrender.com) Developed tools for energy consumption forecasting using the trained model.
 - [**Quant:**](https://github.com/bhavinmoriya/Quant) Implementation of financial modeling and algorithmic trading concepts.
