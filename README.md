@@ -10,8 +10,8 @@
 
 ### **Ideal Opportunities**
 - 🔬 **R&D Positions** in cryptography, privacy-tech, or mobility analytics
-- 🏢 **Industry Roles** Data science, Quants, Artificial intelligence, or Security
-- 🎓 **Academic Positions** in computer science, applied mathematics, or related fields
+- 🏢 **Industry Roles** Software Engineer/Developer, Data scientist, Quants (Energy or Finance), Artificial intelligence, or Security
+- 🎓 **Academic Positions** in computer science, applied mathematics/statistics, or related fields
 - 🚀 **Startups** focused on privacy-preserving technologies, ML or AI, Data Science roles, Quants etc.
 
 ---
