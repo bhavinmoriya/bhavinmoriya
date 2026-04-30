@@ -1,8 +1,18 @@
-# 🚀 Bhavin K. Moriya - Research Scientist & Cryptography Expert
+# 🚀 Bhavin K. Moriya - Data Scientist & Cryptography Expert
 
-## 🎯 **Current Focus**
-**Research Assistant** @ Hochschule Esslingen | **EU Blue Card Holder (Germany)**  
+## 🎯 **Past Position**
+**Data Scientist / Research Assistant** @ Hochschule Esslingen | **EU Blue Card Holder (Germany)**  
 *Pioneering homomorphic encryption applications in mobility data analysis*
+
+---
+
+## 🎯 **Currently Seeking**
+
+### **Ideal Opportunities**
+- 🔬 **R&D Positions** in cryptography, privacy-tech, or mobility analytics
+- 🏢 **Industry Roles** Data science, Quants, Artificial intelligence, or Security
+- 🎓 **Academic Positions** in computer science, applied mathematics, or related fields
+- 🚀 **Startups** focused on privacy-preserving technologies, ML or AI, Data Science roles, Quants etc.
 
 ---
 
@@ -111,14 +121,6 @@ The rare combination of **pure mathematics rigor** + **applied cryptography** + 
 - **Industry-Academia**: Translating research into real-world solutions
 
 ---
-
-## 🎯 **Currently Seeking**
-
-### **Ideal Opportunities**
-- 🔬 **R&D Positions** in cryptography, privacy-tech, or mobility analytics
-- 🏢 **Industry Roles** at intersection of data science and security
-- 🎓 **Academic Positions** in computer science, applied mathematics, or related fields
-- 🚀 **Startups** focused on privacy-preserving technologies, ML or AI, Data Science roles, Quants etc.
 
 ### **Ready to Contribute**
 ✅ **Immediate availability** (EU Blue Card holder)  
