@@ -1,4 +1,4 @@
-- [**Energy Credit Risk Analyst**](https://huggingface.co/spaces/bhavinmoriya/energy-credit-risk-app) -- Score energy-sector counterparties with a transparent Polars risk model.
+- [**Energy Credit Risk Analyst**](https://huggingface.co/spaces/bhavinmoriya/energy-credit-risk-app) -- Score energy-sector counterparties with a transparent Polars risk model. [**DETAILS**](https://github.com/bhavinmoriya/GradioApps/blob/main/energy-credit-risk-app.md)
 - (with C. Krüger & D. Schoop) A Performance Comparison of the Homomorphic Encryption
 Schemes CKKS and TFHE. [Cryptology ePrint Archive, Paper 2025/1460, 2025](https://eprint.iacr.org/2025/1460).
 - [**EnergyPredictionApp:**](https://energypredictionapp.onrender.com) Developed tools for energy consumption forecasting and modeling (training is done in the app).
