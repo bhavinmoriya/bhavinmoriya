@@ -1,4 +1,5 @@
-- [**AudioMNIST**](https://github.com/bhavinmoriya/GradioApps/tree/main/AudioMNIST) -- Say a number and get it recognised by a model -- ![](https://github.com/bhavinmoriya/GradioApps/blob/main/AudioMNIST/Screenshot_2026-06-02_17-09-51.png)
+- [**AudioMNIST**](https://github.com/bhavinmoriya/GradioApps/tree/main/AudioMNIST) -- Say a number and get it recognised by a model.
+  - ![](https://github.com/bhavinmoriya/GradioApps/blob/main/AudioMNIST/Screenshot_2026-06-02_17-09-51.png)
 - [**Energy Credit Risk Analyst**](https://huggingface.co/spaces/bhavinmoriya/energy-credit-risk-app) -- Score energy-sector counterparties with a transparent Polars risk model. [**DETAILS**](https://github.com/bhavinmoriya/GradioApps/blob/main/energy-credit-risk-app.md)
 - (with C. Krüger & D. Schoop) A Performance Comparison of the Homomorphic Encryption
 Schemes CKKS and TFHE. [Cryptology ePrint Archive, Paper 2025/1460, 2025](https://eprint.iacr.org/2025/1460).
