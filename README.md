@@ -6,6 +6,24 @@
 
 ---
 
+## 🔬 [**Current Research Projects**](CurrentProject.md)
+- [**AudioMNIST**](https://github.com/bhavinmoriya/GradioApps/tree/main/AudioMNIST) -- Say a number and get it recognised by a model.
+- [**EnergyPredictionApp/Model:**](https://energypredictionapp.onrender.com) Developed tools for energy consumption forecasting and modeling.
+- [**Quant:**](https://github.com/bhavinmoriya/Quant) Implementation of financial modeling and algorithmic trading concepts.
+- [**Learning from Scratch**](https://github.com/bhavinmoriya/TellMeWhat)
+- [**StreamlitApps**](https://share.streamlit.io/user/bhavinmoriya)
+- [**Diabetes Type 1 -- CGM**](https://github.com/bhavinmoriya/DiabetesType1)
+
+### 🔬 **[AnoMoB Project](https://www.hs-esslingen.de/forschung/forschungsaktivitaeten/forschungsbereiche/interdisziplinaere-projekte/anomob)** | *Hochschule Esslingen*
+*Breakthrough research in privacy-preserving mobility analytics*
+
+- ✨ **Innovation**: First-of-its-kind encrypted comparison operations, evaluation of non-linear functions using homomorphic encryption. Developed a [decision-support tool](https://github.com/bhavinmoriya/bhavinmoriya/blob/main/OTPORSApp_writeup.md) for the ANOMOB project that uses a weighted scoring system to help users evaluate the trade-offs between travel time and CO2 emissions. It details a technical architecture based on Dockerized routing engines (ORS/OTP) and highlights research in privacy-preserving mobility analytics and homomorphic encryption.
+- 🛡️ **Privacy**: Explored secure multi-party computation protocols for sensitive mobility data
+- ⚡ **Performance**: Implemented CKKS and TFHE implementations for real-time processing
+- 📈 **Impact**: Published performance comparison study of Homomorphic Encryptions schemes in Cryptology ePrint Archive (2025).
+
+---
+
 ## 🎯 **Currently Seeking**
 
 ### **Ideal Opportunities**
@@ -40,24 +58,6 @@
 - **Financial Modeling & Analysis**
 - **Risk Assessment**
 - **Algorithmic Trading Concepts**
-
----
-
-## 🔬 [**Current Research Projects**](CurrentProject.md)
-- [**AudioMNIST**](https://github.com/bhavinmoriya/GradioApps/tree/main/AudioMNIST) -- Say a number and get it recognised by a model.
-- [**EnergyPredictionApp/Model:**](https://energypredictionapp.onrender.com) Developed tools for energy consumption forecasting and modeling.
-- [**Quant:**](https://github.com/bhavinmoriya/Quant) Implementation of financial modeling and algorithmic trading concepts.
-- [**Learning from Scratch**](https://github.com/bhavinmoriya/TellMeWhat)
-- [**StreamlitApps**](https://share.streamlit.io/user/bhavinmoriya)
-- [**Diabetes Type 1 -- CGM**](https://github.com/bhavinmoriya/DiabetesType1)
-
-### 🔬 **[AnoMoB Project](https://www.hs-esslingen.de/forschung/forschungsaktivitaeten/forschungsbereiche/interdisziplinaere-projekte/anomob)** | *Hochschule Esslingen*
-*Breakthrough research in privacy-preserving mobility analytics*
-
-- ✨ **Innovation**: First-of-its-kind encrypted comparison operations, evaluation of non-linear functions using homomorphic encryption. Developed a [decision-support tool](https://github.com/bhavinmoriya/bhavinmoriya/blob/main/OTPORSApp_writeup.md) for the ANOMOB project that uses a weighted scoring system to help users evaluate the trade-offs between travel time and CO2 emissions. It details a technical architecture based on Dockerized routing engines (ORS/OTP) and highlights research in privacy-preserving mobility analytics and homomorphic encryption.
-- 🛡️ **Privacy**: Explored secure multi-party computation protocols for sensitive mobility data
-- ⚡ **Performance**: Implemented CKKS and TFHE implementations for real-time processing
-- 📈 **Impact**: Published performance comparison study of Homomorphic Encryptions schemes in Cryptology ePrint Archive (2025)
 
 ---
 
