@@ -51,10 +51,10 @@
 - [**StreamlitApps**](https://share.streamlit.io/user/bhavinmoriya)
 - [**Diabetes Type 1 -- CGM**](https://github.com/bhavinmoriya/DiabetesType1)
 
-### 🔬 **AnoMoB Project** | *Hochschule Esslingen*
+### 🔬 **[AnoMoB Project](https://www.hs-esslingen.de/forschung/forschungsaktivitaeten/forschungsbereiche/interdisziplinaere-projekte/anomob)** | *Hochschule Esslingen*
 *Breakthrough research in privacy-preserving mobility analytics*
 
-- ✨ **Innovation**: First-of-its-kind encrypted comparison operations, evaluation of non-linear functions using homomorphic encryption
+- ✨ **Innovation**: First-of-its-kind encrypted comparison operations, evaluation of non-linear functions using homomorphic encryption. Developed a [decision-support tool](https://github.com/bhavinmoriya/bhavinmoriya/blob/main/OTPORSApp_writeup.md) for the ANOMOB project that uses a weighted scoring system to help users evaluate the trade-offs between travel time and CO2 emissions. It details a technical architecture based on Dockerized routing engines (ORS/OTP) and highlights research in privacy-preserving mobility analytics and homomorphic encryption.
 - 🛡️ **Privacy**: Explored secure multi-party computation protocols for sensitive mobility data
 - ⚡ **Performance**: Implemented CKKS and TFHE implementations for real-time processing
 - 📈 **Impact**: Published performance comparison study of Homomorphic Encryptions schemes in Cryptology ePrint Archive (2025)
