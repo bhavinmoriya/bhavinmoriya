@@ -112,7 +112,7 @@
 The rare combination of **pure mathematics rigor** + **applied cryptography** + **real-world data science** makes me uniquely positioned for cutting-edge research.
 
 ### 🌍 **Global Perspective**
-- **Multilingual**: English, German (B1), Portuguese, Hindi, Gujarati
+- **Multilingual**: English (Fluent), German (B1/Professional Communication), Portuguese (Fluent), Hindi (Native), Gujarati (Native)
 - **International Experience**: India → Brazil → Germany research trajectory
 - **Cultural Adaptability**: Proven success in diverse academic environments
 
