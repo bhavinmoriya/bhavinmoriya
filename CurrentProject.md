@@ -1,4 +1,4 @@
-- [**Signal processing**]
+- **Signal processing**
   - [**SigVision**](https://github.com/bhavinmoriya/sigvision) -- Signal processing for computer vision.
   - [**AudioMNIST**](https://github.com/bhavinmoriya/GradioApps/tree/main/AudioMNIST) -- Say a number and get it recognised by a model.
 
