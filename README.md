@@ -73,7 +73,18 @@
 🔐 OpenFHE, TFHE-rs | 🤖 Pandas, Polars, Scikit-learn
 🐳 Docker | 🔧 Git | 🌐 OpenTripPlanner, OpenRouteService
 ```
+---
 
+## 🛠️ Expertise in Agentic Development
+   Tool        | Icon | Description                                                                                     | Link                          |
+ |-------------|------|-------------------------------------------------------------------------------------------------|-------------------------------|
+ | **Antigravity** | 🪐 | A revolutionary AI coding assistant that integrates seamlessly with your IDE.               | [Website](https://antigravity.ai) |
+ | **Claude**      | 🤖 | An AI assistant by Anthropic, designed for complex reasoning, coding, and collaboration.     | [Website](https://claude.ai)    |
+ | **Codex**       | 💻 | OpenAI's AI model for code generation, powering tools like GitHub Copilot.                   | [Website](https://openai.com/codex) |
+ | **Cursor**      | ✨ | An AI-first code editor built for developers, with advanced code completion and chat.      | [Website](https://cursor.com)    |
+ | **VSCode**      | 💙 | Microsoft's extensible, open-source code editor with AI-powered extensions like Copilot.    | [Website](https://code.visualstudio.com) |
+
+---
 ### **Research Domains**
 - **Homomorphic Encryption** → Real-world privacy applications
 - **Mathematical Modeling** → 16 peer-reviewed publications
