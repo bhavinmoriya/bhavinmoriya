@@ -1,5 +1,5 @@
 - **Signal processing**
-  - [**Audio Digital Signal Processing**](https://github.com/bhavinmoriya/AudioDSP)[HOW TO USE](https://youtu.be/eK1AZFuVjaE)
+  - [**Audio Digital Signal Processing**](https://github.com/bhavinmoriya/AudioDSP) -- An interactive web application designed to explore the mathematics and practical applications of Digital Signal Processing (DSP) for audio. [HOW TO USE](https://youtu.be/eK1AZFuVjaE)
   - [**SigVision**](https://github.com/bhavinmoriya/sigvision) -- Signal processing for computer vision [HOW TO USE](https://youtu.be/ZB1cDhhzBxI?si=-eevM_Q87PukkNw2).
   - [**AudioMNIST**](https://github.com/bhavinmoriya/GradioApps/tree/main/AudioMNIST) -- Say a number and get it recognised by a model.
 
