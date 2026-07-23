@@ -1,19 +1,6 @@
 - **Causal Inference**
-  - [CausalMedAI](https://github.com/bhavinmoriya/CausalMedAI) 
-  CausalMedAI is a small Python project designed for a postdoc application direction in causal AI for medical sciences. It demonstrates the difference between predictive modeling and causal estimation on a synthetic oncology cohort.
-
-The project implements a minimal causal pipeline without external runtime dependencies:
-
-synthetic patient cohort generation with confounding by severity, multi-omics risk, age, comorbidity, and hospital site
-a documented causal estimand: average treatment effect of a targeted therapy on 12-month response
-propensity score estimation using logistic regression trained from scratch
-outcome regression for treated and untreated potential outcomes
-doubly robust AIPW treatment effect estimation
-individual treatment effect ranking for patient-level decision support
-hidden-confounding stress analysis
-command-line report generation
-  - [Causal Health Postdoc Demo](https://github.com/bhavinmoriya/causal_health_postdoc))
-  This project is a compact portfolio piece for the Causal AI for Health. It demonstrates causal inference, uncertainty quantification, expert knowledge, multimodal biomedical covariates, selection bias, and distribution shift in a reproducible Gradio app.
+  - [CausalMedAI](https://github.com/bhavinmoriya/CausalMedAI) --  CausalMedAI is a small Python project designed for a postdoc application direction in causal AI for medical sciences. It demonstrates the difference between predictive modeling and causal estimation on a synthetic oncology cohort.
+  - [Causal Health Demo](https://github.com/bhavinmoriya/causal_health_postdoc) -- This project is a compact portfolio piece for the Causal AI for Health. It demonstrates causal inference, uncertainty quantification, expert knowledge, multimodal biomedical covariates, selection bias, and distribution shift in a reproducible Gradio app.
 - **Signal processing**
   - [**Audio Digital Signal Processing**](https://github.com/bhavinmoriya/AudioDSP) -- An interactive web application designed to explore the mathematics and practical applications of Digital Signal Processing (DSP) for audio. [HOW TO USE](https://youtu.be/eK1AZFuVjaE)
   - [**SigVision**](https://github.com/bhavinmoriya/sigvision) -- Signal processing for computer vision [HOW TO USE](https://youtu.be/ZB1cDhhzBxI?si=-eevM_Q87PukkNw2).
