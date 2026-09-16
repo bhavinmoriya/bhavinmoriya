@@ -1,3 +1,15 @@
+- **FEM Solver** — [Finite Element Method from Scratch](https://github.com/bhavinmoriya/fem-project)
+
+A from-scratch, dependency-light **Finite Element Method (FEM)** library in
+Python (NumPy + SciPy only, no FEniCS / scikit-fem / etc.), covering:
+
+1. **1D linear reaction-diffusion**: `-(k u')' + c u = f` with linear (P1)
+   elements, Dirichlet and Neumann boundary conditions.
+2. **2D Poisson equation** on a triangulated rectangle: `-div(k grad u) = f`
+   with P1 triangles (constant-gradient elements) and Dirichlet BCs.
+3. **2D linear elasticity** (plane stress / plane strain) on triangles:
+   constant-strain-triangle (CST) elements, body forces, edge tractions,
+   Dirichlet displacement BCs, and von Mises stress recovery.
 - **Causal Inference**
   - [CausalMedAI](https://github.com/bhavinmoriya/CausalMedAI) --  CausalMedAI is a small Python project designed for a postdoc application direction in causal AI for medical sciences. It demonstrates the difference between predictive modeling and causal estimation on a synthetic oncology cohort.
   - [Causal Health Demo](https://github.com/bhavinmoriya/causal_health_postdoc) -- This project is a compact portfolio piece for the Causal AI for Health. It demonstrates causal inference, uncertainty quantification, expert knowledge, multimodal biomedical covariates, selection bias, and distribution shift in a reproducible Gradio app.
