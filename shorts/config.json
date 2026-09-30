@@ -1,0 +1,8 @@
+{
+  "timezone": "Europe/Berlin",
+  "max_duration_seconds": 180,
+  "assume_all_uploads_are_shorts": true,
+  "max_upload_playlist_pages": 5,
+  "site_title": "Bhavin Moriya \u2014 YouTube Shorts",
+  "site_description": "Recent YouTube Shorts and the most-viewed Short from yesterday."
+}

@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bhavin Moriya's recent YouTube Shorts.">
+  <title>Bhavin Moriya — YouTube Shorts</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <header class="hero">
+      <p class="eyebrow">BHAVIN MORIYA</p>
+      <h1>YouTube Shorts</h1>
+      <p id="subtitle">Loading the latest Shorts…</p>
+    </header>
+
+    <section id="featured-section" class="featured hidden" aria-labelledby="featured-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">MOST VIEWED</p>
+          <h2 id="featured-title">Yesterday's most-viewed Short</h2>
+        </div>
+      </div>
+      <div id="featured-card"></div>
+    </section>
+
+    <section aria-labelledby="shorts-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">RECENT UPLOADS</p>
+          <h2 id="shorts-title">Yesterday's Shorts</h2>
+        </div>
+      </div>
+      <div id="shorts-grid" class="grid"></div>
+    </section>
+
+    <footer>
+      <p>Videos are hosted and played by YouTube.</p>
+      <p id="updated"></p>
+    </footer>
+  </main>
+
+  <script>
+    const dataUrl = "data/shorts.json";
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function formatViews(value) {
+      return new Intl.NumberFormat("en-US").format(Number(value || 0)) + " views";
+    }
+
+    function formatDuration(seconds) {
+      const s = Number(seconds || 0);
+      const m = Math.floor(s / 60);
+      const r = s % 60;
+      return `${m}:${String(r).padStart(2, "0")}`;
+    }
+
+    function videoFrame(videoId, title, featured = false) {
+      const loading = featured ? "eager" : "lazy";
+      return `
+        <div class="video-wrap ${featured ? "featured-video" : ""}">
+          <iframe
+            src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(videoId)}"
+            title="${escapeHtml(title)}"
+            loading="${loading}"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+        </div>`;
+    }
+
+    function card(video) {
+      return `
+        <article class="card">
+          ${videoFrame(video.video_id, video.title)}
+          <div class="card-body">
+            <h3>${escapeHtml(video.title)}</h3>
+            <div class="meta">
+              <span>${formatViews(video.view_count)}</span>
+              <span>${formatDuration(video.duration_seconds)}</span>
+            </div>
+            <a href="${escapeHtml(video.youtube_url)}" target="_blank" rel="noopener noreferrer">
+              Watch on YouTube ↗
+            </a>
+          </div>
+        </article>`;
+    }
+
+    async function load() {
+      const response = await fetch(dataUrl, { cache: "no-store" });
+      if (!response.ok) throw new Error(`Could not load ${dataUrl}`);
+      const data = await response.json();
+
+      const date = new Date(`${data.target_date}T00:00:00`);
+      const dateText = new Intl.DateTimeFormat("en-GB", {
+        day: "numeric", month: "long", year: "numeric"
+      }).format(date);
+
+      document.getElementById("subtitle").textContent =
+        `Shorts uploaded on ${dateText} (Europe/Berlin).`;
+
+      const videos = data.videos || [];
+      const grid = document.getElementById("shorts-grid");
+      grid.innerHTML = videos.length
+        ? videos.map(card).join("")
+        : `<div class="empty">No Shorts were found for this date.</div>`;
+
+      if (data.most_viewed) {
+        document.getElementById("featured-section").classList.remove("hidden");
+        document.getElementById("featured-card").innerHTML = `
+          <article class="featured-card">
+            ${videoFrame(data.most_viewed.video_id, data.most_viewed.title, true)}
+            <div class="featured-info">
+              <p class="badge">⭐ Most viewed</p>
+              <h3>${escapeHtml(data.most_viewed.title)}</h3>
+              <p class="big-number">${formatViews(data.most_viewed.view_count)}</p>
+              <a href="${escapeHtml(data.most_viewed.youtube_url)}"
+                 target="_blank" rel="noopener noreferrer">Open on YouTube ↗</a>
+            </div>
+          </article>`;
+      }
+
+      document.getElementById("updated").textContent =
+        `Data generated: ${new Date(data.generated_at).toLocaleString()}`;
+    }
+
+    load().catch(error => {
+      document.getElementById("subtitle").textContent =
+        "The Shorts data could not be loaded.";
+      document.getElementById("shorts-grid").innerHTML =
+        `<div class="empty">${escapeHtml(error.message)}</div>`;
+    });
+  </script>
+</body>
+</html>
