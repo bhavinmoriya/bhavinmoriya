@@ -25,6 +25,18 @@
 
 ---
 
+## 🎬 **My Latest YouTube Shorts**
+
+<p align="center">
+  <a href="https://bhavinmoriya.github.io/bhavinmoriya/">
+    <img src="https://img.shields.io/badge/▶%20Watch%20My%20Latest%20YouTube%20Shorts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my latest YouTube Shorts">
+  </a>
+</p>
+
+*Automatically updated with my latest Shorts.*
+
+---
+
 ## 🎯 **Currently Seeking**
 
 ### **Ideal Opportunities**
