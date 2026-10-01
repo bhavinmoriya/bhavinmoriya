@@ -6,6 +6,18 @@
 
 ---
 
+## 🎬 **My Latest YouTube Shorts**
+
+<p align="center">
+  <a href="https://bhavinmoriya.github.io/bhavinmoriya/">
+    <img src="https://img.shields.io/badge/▶%20Watch%20My%20Latest%20YouTube%20Shorts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my latest YouTube Shorts">
+  </a>
+</p>
+
+*Automatically updated with my latest Shorts.*
+
+---
+
 ## 🔬 [**Current Research Projects**](CurrentProject.md)
 - **FEM Solver** — [Finite Element Method from Scratch](https://github.com/bhavinmoriya/fem-project)
 - [**AudioMNIST**](https://github.com/bhavinmoriya/GradioApps/tree/main/AudioMNIST) -- Say a number and get it recognised by a model.
@@ -22,18 +34,6 @@
 - 🛡️ **Privacy**: Explored secure multi-party computation protocols for sensitive mobility data
 - ⚡ **Performance**: Implemented CKKS and TFHE implementations for real-time processing
 - 📈 **Impact**: Published performance comparison study of Homomorphic Encryptions schemes in Cryptology ePrint Archive (2025).
-
----
-
-## 🎬 **My Latest YouTube Shorts**
-
-<p align="center">
-  <a href="https://bhavinmoriya.github.io/bhavinmoriya/">
-    <img src="https://img.shields.io/badge/▶%20Watch%20My%20Latest%20YouTube%20Shorts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my latest YouTube Shorts">
-  </a>
-</p>
-
-*Automatically updated with my latest Shorts.*
 
 ---
 
